@@ -23,3 +23,7 @@ This Python script is designed to scrape contact information (emails and phone n
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/website-contact-scraper.git
+
+2. Run python file
+   ```bash
+   python extract_email.py 
